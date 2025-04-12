@@ -1,0 +1,17 @@
+4
+hyper
+100
+$
+12
+alpha
+200
+E
+20
+gamma
+500
+R
+14
+betta
+300
+U
+16
